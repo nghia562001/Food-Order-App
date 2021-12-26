@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">EatIt</string>
+    <string name="title_activity_home">Home</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="name_category_0">Hamburger</string>
+    <string name="name_category_1">Pista</string>
+    <string name="name_category_2">Chicken</string>
+    <string name="name_category_3">Pizza</string>
+    <string name="name_category_4">Drink</string>
+    <string name="name_category_5">Pizza</string>
+    <string name="name_category_6">Burger</string>
+    <string name="name_category_7">Chicken</string>
+
+
+    <string name="CORNPIZZA_name_0">Burger 1</string>
+    <string name="SPECIALPIZZA_name_1">Burger 2</string>
+</resources>
